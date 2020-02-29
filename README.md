@@ -1,6 +1,6 @@
 # OSINTBookmarks
 
-This is based on the work done by @SPMedia https://github.com/jivoi/awesome-osint
+This is based on the work done by @SPMedia https://github.com/jivoi/awesome-osint and also the Bellingcat toolkit https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit
 
 Includes a bookmarks file to import OSINT bookmarks, also includes distrbution.ini for packaging Firefox.
 
