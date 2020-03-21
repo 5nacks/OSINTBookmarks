@@ -11,6 +11,6 @@ Includes a bookmarks file to import OSINT bookmarks.
 
 Instructions:
 
-Import the bookmarks.html file through the browser of your choice OR
+Firefox - Press CTRL + SHIFT + B > Click Import and Backup > Import Bookmarks from HTML > Find the file and click Open
 
 # Please feel free to contribute :)
