@@ -7,7 +7,7 @@ This is based on the work done by:
 
 Includes a bookmarks file to import OSINT bookmarks.
 
-![image](https://user-images.githubusercontent.com/23207476/75099744-24cdf200-5615-11ea-92e3-a09b7e60f950.png)
+![image](https://user-images.githubusercontent.com/23207476/77223147-e5f67200-6ba9-11ea-8cab-c106a99dffd9.png)
 
 Instructions:
 
